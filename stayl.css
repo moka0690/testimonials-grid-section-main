@@ -21,7 +21,7 @@ body {
 .first-section {
   padding: 20px;
 
-  /* min-height: 450px; */
+ 
   color: white;
   background-image: url(/images/bg-pattern-quotation.svg);
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ img {
 .first-Jonathan-Walters {
   padding: 20px;
 
-  /* min-height: 272px; */
+  
   color: white;
   background-repeat: no-repeat;
   background-position-x: 200px;
@@ -171,7 +171,7 @@ img {
 .first-Jeanette-Harmon {
   padding: 20px;
 
-  /* min-height: 272px; */
+  
   color: white;
   background-repeat: no-repeat;
   background-position-x: 200px;
@@ -240,7 +240,7 @@ img {
 .first-Patrick-Abrams {
   padding: 20px;
 
-  /* min-height: 450px; */
+
   color: white;
   border-radius: 2%;
   background-color: var(--Very-dark-blackish-blue);
@@ -311,7 +311,6 @@ img {
 .first-Kira-Whittle {
   padding: 20px;
 
-  /* min-height: 450px; */
   color: white;
   border-radius: 2%;
   background-color: var(--white);
